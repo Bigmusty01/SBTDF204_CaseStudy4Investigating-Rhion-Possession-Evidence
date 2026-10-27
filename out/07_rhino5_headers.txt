@@ -1,0 +1,11 @@
+    [Server Contiguous Streams: 1]
+[[…] 60 Reassembled TCP Segments (85428 bytes): #219(1460), #220(1460), #222(1460), #223(1460), #225(1460), #226(1460), #228(1460), #229(1460), #231(1460), #232(1460), #234(1460), #235(1460), #237(1460), #239(1460), #240(1460), #242(1460)]
+    [Reassembled TCP length: 85428]
+    [Reassembled TCP Data […]: 485454502f312e3120323030204f4b0d0a446174653a205765642c2032382041707220323030342032313a30373a333420474d540d0a5365727665723a204170616368652f312e332e32392028556e6978290d0a4c6173742d4d6f6469666965643a205765642c20323]
+    HTTP/1.1 200 OK\r\n
+        Response Version: HTTP/1.1
+    Date: Wed, 28 Apr 2004 21:07:34 GMT\r\n
+    Server: Apache/1.3.29 (Unix)\r\n
+    Last-Modified: Wed, 28 Apr 2004 21:07:34 GMT\r\n
+    Content-Length: 85137\r\n
+    Content-Type: image/gif\r\n

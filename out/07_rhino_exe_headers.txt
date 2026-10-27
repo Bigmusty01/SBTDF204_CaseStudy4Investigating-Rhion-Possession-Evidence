@@ -1,0 +1,11 @@
+    [Server Contiguous Streams: 1]
+[104 Reassembled TCP Segments (146228 bytes): #112(1460), #113(1460), #115(1460), #116(1460), #118(1460), #119(1460), #121(1460), #122(1460), #124(1460), #126(1460), #127(1460), #129(1460), #131(1460), #132(1460), #134(1460), #136(1460), ]
+    [Reassembled TCP length: 146228]
+    [Reassembled TCP Data […]: 485454502f312e3120323030204f4b0d0a446174653a205765642c2032382041707220323030342032313a31353a313320474d540d0a5365727665723a204170616368652f312e332e32392028556e6978290d0a4c6173742d4d6f6469666965643a205765642c20323]
+    HTTP/1.1 200 OK\r\n
+        Response Version: HTTP/1.1
+    Date: Wed, 28 Apr 2004 21:15:13 GMT\r\n
+    Server: Apache/1.3.29 (Unix)\r\n
+    Last-Modified: Wed, 28 Apr 2004 21:15:13 GMT\r\n
+    Content-Length: 145920\r\n
+    Content-Type: application/octet-stream\r\n

@@ -1,0 +1,2 @@
+Archive:  /home/kali/case4/network/ftp/contraband.zip
+  inflating: rhino2.jpg              

@@ -1,0 +1,23 @@
+ExifTool Version Number         : 13.55
+File Name                       : rhino2.jpg
+Directory                       : .
+File Size                       : 231 kB
+File Modification Date/Time     : 2004:04:26 17:00:12+00:00
+File Access Date/Time           : 2026:10:27 08:01:54+00:00
+File Inode Change Date/Time     : 2026:10:27 08:01:54+00:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : inches
+X Resolution                    : 170
+Y Resolution                    : 170
+Image Width                     : 1024
+Image Height                    : 685
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1024x685
+Megapixels                      : 0.701

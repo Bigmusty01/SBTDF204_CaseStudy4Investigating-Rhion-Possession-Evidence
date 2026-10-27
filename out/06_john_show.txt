@@ -1,0 +1,3 @@
+contraband.zip/rhino2.jpg:monkey:rhino2.jpg:contraband.zip::contraband.zip
+
+1 password hash cracked, 0 left

@@ -1,0 +1,31 @@
+rhino2:
+total 288
+-r--r--r-- 1 kali kali   2931 Oct 27 08:03 %2f
+-r--r--r-- 1 kali kali   2931 Oct 27 08:03 %2f(1)
+-r--r--r-- 1 kali kali    216 Oct 27 08:03 back.gif
+-r--r--r-- 1 kali kali    148 Oct 27 08:03 blank.gif
+-r--r--r-- 1 kali kali    309 Oct 27 08:03 image2.gif
+-r--r--r-- 1 kali kali   2270 Oct 27 08:03 index.html
+-r--r--r-- 1 kali kali   8558 Oct 27 08:03 logo.gif
+-r--r--r-- 1 kali kali 153191 Oct 27 08:03 rhino4.jpg
+-r--r--r-- 1 kali kali  85137 Oct 27 08:03 rhino5.gif
+-r--r--r-- 1 kali kali    304 Oct 27 08:03 ~gnome
+-r--r--r-- 1 kali kali    772 Oct 27 08:03 ~gnome(1)
+-r--r--r-- 1 kali kali    306 Oct 27 08:03 ~venkata
+-r--r--r-- 1 kali kali   1388 Oct 27 08:03 ~venkata(1)
+
+rhino3:
+total 208
+-r--r--r-- 1 kali kali   2931 Oct 27 08:03 %2f
+-r--r--r-- 1 kali kali   2931 Oct 27 08:03 %2f(1)
+-r--r--r-- 1 kali kali   4707 Oct 27 08:03 logo_sm.gif
+-r--r--r-- 1 kali kali    376 Oct 27 08:03 nav_current.gif
+-r--r--r-- 1 kali kali   1033 Oct 27 08:03 nav_first.gif
+-r--r--r-- 1 kali kali    373 Oct 27 08:03 nav_page.gif
+-r--r--r-- 1 kali kali    290 Oct 27 08:03 object50
+-r--r--r-- 1 kali kali     89 Oct 27 08:03 object68
+-r--r--r-- 1 kali kali   1430 Oct 27 08:03 object83
+-r--r--r-- 1 kali kali      5 Oct 27 08:03 object95
+-r--r--r-- 1 kali kali   1008 Oct 27 08:03 object97
+-r--r--r-- 1 kali kali 145920 Oct 27 08:03 rhino.exe
+-r--r--r-- 1 kali kali  15160 Oct 27 08:03 search%3fhl=en&ie=UTF-8&oe=UTF-8&q=rhino.exe

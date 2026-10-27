@@ -1,0 +1,6 @@
+137.030.120.040.00020-137.030.122.253.01660: VISX image file
+137.030.122.253.01660-137.030.120.040.00020: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 720x597, components 3
+137.030.120.040.00020-137.030.122.253.01662: VISX image file
+137.030.122.253.01662-137.030.120.040.00020: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 720x597, components 3
+137.030.120.040.00020-137.030.122.253.02002: VISX image file
+137.030.122.253.02002-137.030.120.040.00020: Zip archive data, made by v2.0, extract using at least v2.0, last modified Apr 26 2004 17:00:12, uncompressed size 230665, method=deflate

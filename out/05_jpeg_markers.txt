@@ -1,0 +1,6 @@
+rhino3_ascii_stor.jpg first/last bytes:
+ ff d8 ff e0
+ ff d9
+rhino3_binary_stor.jpg first/last bytes:
+ ff d8 ff e0
+ ff d9

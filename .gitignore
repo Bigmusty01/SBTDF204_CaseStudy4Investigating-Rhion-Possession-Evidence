@@ -14,3 +14,4 @@ rhino*.log
 *.png
 *.gif
 !out/shots/*.png
+out/05_ftp_control.txt

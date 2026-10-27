@@ -1,0 +1,27 @@
+53277184 jpg: slack sectors 53373440-53375488 len=2048 sha256=6ef75dfa830c2c60
+   head: b'RRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSO'
+   distinct byte values: 5
+53375488 jpg: slack sectors 53791232-53793280 len=2048 sha256=da710e8b190f448d
+   head: b'SORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\n'
+   distinct byte values: 5
+53793280 jpg: slack sectors 54204928-54206976 len=2048 sha256=7e6a73e79377a69a
+   head: b'Y\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORR'
+   distinct byte values: 5
+54206976 jpg: slack sectors 54471680-54473216 len=1536 sha256=8bcf70234f618963
+   head: b'Y\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORR'
+   distinct byte values: 5
+54473216 jpg: slack sectors 54480384-54481408 len=1024 sha256=da9cc82c628e2d2b
+   head: b'RRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSO'
+   distinct byte values: 5
+54481408 jpg: slack sectors 54712320-54714880 len=2560 sha256=5a1d67d7a8306879
+   head: b'Y\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORR'
+   distinct byte values: 5
+171561472 jpg: slack sectors 171826176-171827712 len=1536 sha256=3de66996d80c2b94
+   head: b'CHARLIE\nCHARLIE\nCHARLIE\nCHARLIE\nCHARLIE\nCHARLIE\nCHARLIE\nCHAR'
+   distinct byte values: 8
+54714880 gif: slack sectors 54726656-54727168 len=512 sha256=ea669e4e83d65558
+   head: b'SORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\n'
+   distinct byte values: 5
+54727168 gif: slack sectors 54731776-54735360 len=3584 sha256=9cd6669c2f514900
+   head: b'RRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSORRY\nSO'
+   distinct byte values: 5

@@ -1,0 +1,21 @@
+======== carved_53277184.jpg
+[File]          Comment                         : copyright 2000 philg@mit.edu
+[Composite]     ImageSize                       : 528x792
+======== carved_53375488.jpg
+[Composite]     ImageSize                       : 1349x900
+======== carved_53793280.jpg
+[Composite]     ImageSize                       : 1686x1122
+======== carved_54206976.jpg
+[Composite]     ImageSize                       : 1024x768
+======== carved_54473216.jpg
+[File]          Comment                         : LEAD Technologies Inc. V1.01
+[Composite]     ImageSize                       : 169x228
+======== carved_54481408.jpg
+[Composite]     ImageSize                       : 1024x685
+======== carved_171561472.jpg
+[Composite]     ImageSize                       : 1024x768
+======== carved_54714880.gif
+[Composite]     ImageSize                       : 290x246
+======== carved_54727168.gif
+[Composite]     ImageSize                       : 150x87
+    9 image files read

@@ -1,0 +1,26 @@
+./rhino2/index.html: HTML document, ASCII text
+./rhino2/~venkata: HTML document, ASCII text
+./rhino2/image2.gif: GIF image data, version 89a, 20 x 22
+./rhino2/%2f: HTML document, ASCII text, with very long lines (1762)
+./rhino2/%2f(1): HTML document, ASCII text, with very long lines (1762)
+./rhino2/~gnome: HTML document, ASCII text
+./rhino2/rhino4.jpg: JPEG image data, JFIF standard 1.00, resolution (DPI), density 300x300, segment length 16, comment: "U-Lead Systems, Inc.", baseline, precision 8, 1531x2286, components 3
+./rhino2/logo.gif: GIF image data, version 89a, 276 x 110
+./rhino2/back.gif: GIF image data, version 89a, 20 x 22
+./rhino2/blank.gif: GIF image data, version 89a, 20 x 22
+./rhino2/rhino5.gif: GIF image data, version 89a, 400 x 275
+./rhino2/~gnome(1): HTML document, ASCII text
+./rhino2/~venkata(1): HTML document, ASCII text
+./rhino3/object83: data
+./rhino3/object68: ASCII text, with CRLF line terminators
+./rhino3/nav_current.gif: GIF image data, version 89a, 16 x 26
+./rhino3/nav_first.gif: GIF image data, version 89a, 18 x 26
+./rhino3/%2f: HTML document, ASCII text, with very long lines (1762)
+./rhino3/nav_page.gif: GIF image data, version 89a, 16 x 26
+./rhino3/%2f(1): HTML document, ASCII text, with very long lines (1762)
+./rhino3/rhino.exe: PE32 executable for MS Windows 4.00 (console), Intel i386, 3 sections
+./rhino3/object95: ASCII text, with CRLF line terminators
+./rhino3/search%3fhl=en&ie=UTF-8&oe=UTF-8&q=rhino.exe: HTML document, Unicode text, UTF-8 text, with very long lines (1930), with CRLF, LF line terminators
+./rhino3/object50: data
+./rhino3/object97: HTML document, ASCII text, with very long lines (407), with CRLF, LF line terminators
+./rhino3/logo_sm.gif: GIF image data, version 89a, 150 x 55
