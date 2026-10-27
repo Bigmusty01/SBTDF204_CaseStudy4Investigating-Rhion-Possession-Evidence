@@ -1,0 +1,5 @@
+Tue Oct 27 07:23:51 AM UTC 2026
+The Sleuth Kit ver 4.14.0
+TShark (Wireshark) 4.6.6.
+PhotoRec 7.2, Data Recovery Utility, February 2024
+Christophe GRENIER <grenier@cgsecurity.org>

@@ -1,0 +1,9 @@
+carved_53277184.jpg:  JPEG image data, JFIF standard 1.01, aspect ratio, density 0x0, segment length 16, comment: "copyright 2000 philg@mit.edu", baseline, precision 8, 528x792, components 3
+carved_53375488.jpg:  JPEG image data, JFIF standard 1.02, aspect ratio, density 100x100, segment length 16, baseline, precision 8, 1349x900, components 3
+carved_53793280.jpg:  JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 1686x1122, components 3
+carved_54206976.jpg:  JPEG image data, JFIF standard 1.02, aspect ratio, density 100x100, segment length 16, baseline, precision 8, 1024x768, components 3
+carved_54473216.jpg:  JPEG image data, JFIF standard 1.00, resolution (DPI), density 72x72, segment length 16, comment: "LEAD Technologies Inc. V1.01", baseline, precision 8, 169x228, components 3
+carved_54481408.jpg:  JPEG image data, JFIF standard 1.01, resolution (DPI), density 170x170, segment length 16, baseline, precision 8, 1024x685, components 3
+carved_54714880.gif:  GIF image data, version 89a, 290 x 246
+carved_54727168.gif:  GIF image data, version 89a, 150 x 87
+carved_171561472.jpg: JPEG image data, JFIF standard 1.02, aspect ratio, density 100x100, segment length 16, baseline, precision 8, 1024x768, components 3

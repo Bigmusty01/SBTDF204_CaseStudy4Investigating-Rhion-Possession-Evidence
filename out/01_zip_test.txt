@@ -1,0 +1,6 @@
+Archive:  DFRWS2005-RODEO.zip
+    testing: RHINOUSB.dd              OK
+    testing: rhino.log                OK
+    testing: rhino2.log               OK
+    testing: rhino3.log               OK
+No errors detected in compressed data of DFRWS2005-RODEO.zip.

@@ -1,0 +1,4 @@
+photorec/free.3/report.xml: XML 1.0 document, ASCII text
+photorec/free.2/report.xml: XML 1.0 document, ASCII text
+photorec/whole.1/report.xml: XML 1.0 document, ASCII text
+photorec/free.1/report.xml: XML 1.0 document, ASCII text

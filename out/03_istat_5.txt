@@ -1,0 +1,12 @@
+Directory Entry: 5
+Allocated
+File Attributes: Long File Name
+Size: 0
+Name: gumbo2.txt
+
+Directory Entry Times:
+Written:	0000-00-00 00:00:00 (UTC)
+Accessed:	0000-00-00 00:00:00 (UTC)
+Created:	0000-00-00 00:00:00 (UTC)
+
+Sectors:

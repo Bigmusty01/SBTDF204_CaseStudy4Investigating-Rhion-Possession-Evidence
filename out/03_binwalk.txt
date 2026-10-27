@@ -1,0 +1,13 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+53277184      0x32CF200       JPEG image data, JFIF standard 1.01
+53375488      0x32E7200       JPEG image data, JFIF standard 1.02
+53793280      0x334D200       JPEG image data, JFIF standard 1.01
+54206976      0x33B2200       JPEG image data, JFIF standard 1.02
+54473216      0x33F3200       JPEG image data, JFIF standard 1.00
+54481408      0x33F5200       JPEG image data, JFIF standard 1.01
+54714880      0x342E200       GIF image data, version "89a", 290 x 246
+54727168      0x3431200       GIF image data, version "89a", 150 x 87
+171561472     0xA39D200       JPEG image data, JFIF standard 1.02
+

@@ -1,0 +1,1 @@
+RHINOUSB.dd: DOS/MBR boot sector, code offset 0x3c+2, OEM-ID "mkdosfs", sectors/cluster 8, root entries 512, Media descriptor 0xf8, sectors/FAT 248, sectors/track 62, heads 8, sectors 506848 (volumes > 32 MB), serial number 0x4092d9d1, label: "           ", FAT (16 bit)

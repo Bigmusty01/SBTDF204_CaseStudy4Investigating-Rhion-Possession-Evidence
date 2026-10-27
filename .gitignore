@@ -1,0 +1,16 @@
+originals/
+working/
+recovered/
+network/
+*.dd
+*.pcap*
+rhino*.log
+*.zip
+*.rar
+*.7z
+*.exe
+*.jpg
+*.jpeg
+*.png
+*.gif
+!out/shots/*.png
